@@ -6,7 +6,7 @@ def z1():
     else:
         print('Нет такого числа!')
 
-
+#разлогиниваяйся с гитхаба ;)
 from random import *
 def z2():
 
